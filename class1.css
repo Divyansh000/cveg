@@ -1,0 +1,17 @@
+
+  img{
+    height:20px;
+  }
+  li{
+    color:purple;
+  }
+#one{
+  color:red;
+
+}
+.two{
+  color:green;
+}
+.xyz:hover{
+  color:red;
+}
